@@ -38,8 +38,3 @@ function listGifts(carta) {
     }
     return obj
 }
-
-console.log('nico     balbi'.split(' '))
-
-var obje = {nico: 'balbi'}
-console.log(obje.hasOwnProperty('nico'))
